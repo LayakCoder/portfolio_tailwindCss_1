@@ -1,4 +1,4 @@
-# TailwindCSS Portfolio 2
+# TailwindCSS Portfolio 1
 
 This project is a fully responsive portfolio website built with **TailwindCSS**. It features a clean, modern design with smooth animations, a dark/light theme toggle, and sections such as "About Me", "Services", "Works", and "Contact". The website showcases a professional portfolio layout, providing an excellent starting point for creating your own personal or business portfolio.
 
